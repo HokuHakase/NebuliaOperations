@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c73c328e8e084dcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Core Rules/5. Weapons.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Core Rules/4. Operators.md",
+                "file": "1. Core Rules/5. Weapons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Core Rules/4. Operators.md",
+                "file": "1. Core Rules/5. Weapons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Core Rules/4. Operators.md"
+                "file": "1. Core Rules/5. Weapons.md"
               }
             }
           }
@@ -146,11 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bec4896a8f51cd79",
+  "active": "c73c328e8e084dcb",
   "lastOpenFiles": [
     "1. Core Rules/4. Operators.md",
-    "1. Core Rules/1. Welcome.md",
+    "1. Core Rules/5. Weapons.md",
     "1. Core Rules/3. Tools of war.md",
+    "1. Core Rules/1. Welcome.md",
     "1. Core Rules",
     "1. Core Rules/2. The Operatives.md"
   ]
